@@ -1,0 +1,4 @@
+config admins-testing-area
+bingo ╭ʚ🎲ʙɪɴɢᴏ
+sessionID 1
+winner winlose-payout-log

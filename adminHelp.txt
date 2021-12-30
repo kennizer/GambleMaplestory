@@ -1,0 +1,16 @@
+To ask for help in Bingo - !bingo help
+
+To initialize the bingo board - !bingo init <number>
+
+To add a link in the bingo board - !bingo link <link> 
+To kick bingo slots - !bingo kick <num1> <num2> ... 
+To register into slots the bingo game - !bingo register <num1> <num2> ... 
+
+To start the bingo game - !bingo start
+
+To roll during the game - !bingo roll 
+To unverify the BINGO guy - !bingo kap
+To verify the winner as the winner - !bingo win 
+
+To reset the bingo game - !bingo reset
+Say bingo when you hit bingo - BINGO

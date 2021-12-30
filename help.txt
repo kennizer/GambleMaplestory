@@ -1,0 +1,3 @@
+To get help from bingo - !bingo help
+To register for slots in bingo - !bingo register <num1> <num2> ... 
+To say BINGO - BINGO 
